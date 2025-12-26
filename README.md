@@ -1,6 +1,6 @@
 # DirFuzz
 
-**RouteFuzz** es una herramienta de *fuzzing* ligera y modular diseñada para descubrir directorios y archivos ocultos en aplicaciones web mediante ataques de diccionario.
+**DirFuzz** es una herramienta de *fuzzing* ligera y modular diseñada para descubrir directorios y archivos ocultos en aplicaciones web mediante ataques de diccionario.
 
 ## Características
 
@@ -14,7 +14,7 @@
 El proyecto ha sido refactorizado para seguir una arquitectura modular:
 
 ```text
-RouteFuzz/
+DirFuzz/
 ├── main.py            # Punto de entrada de la aplicación
 ├── core/              # Lógica principal
 │   ├── cli.py         # Manejo de argumentos de línea de comandos
