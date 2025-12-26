@@ -1,4 +1,4 @@
-# RouteFuzz
+# DirFuzz
 
 **RouteFuzz** es una herramienta de *fuzzing* ligera y modular diseñada para descubrir directorios y archivos ocultos en aplicaciones web mediante ataques de diccionario.
 
