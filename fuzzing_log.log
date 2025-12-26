@@ -1,0 +1,11 @@
+2025-12-25 20:53:30,640 - INFO - Iniciando fuzzing en https://example.com/ | delay=0.0s
+2025-12-25 20:53:30,979 - WARNING - [NOT FOUND] https://example.com/hola ------ status 404
+2025-12-25 20:53:31,321 - WARNING - [NOT FOUND] https://example.com/holaa ------ status 404
+2025-12-25 20:53:31,671 - WARNING - [NOT FOUND] https://example.com/holaaaa ------ status 404
+2025-12-25 20:53:31,999 - WARNING - [NOT FOUND] https://example.com/login ------ status 404
+2025-12-25 20:53:32,330 - WARNING - [NOT FOUND] https://example.com/register ------ status 404
+2025-12-25 20:53:32,668 - WARNING - [NOT FOUND] https://example.com/start ------ status 404
+2025-12-25 20:53:33,029 - WARNING - [NOT FOUND] https://example.com/0 ------ status 404
+2025-12-25 20:53:33,366 - WARNING - [NOT FOUND] https://example.com/home ------ status 404
+2025-12-25 20:53:33,699 - WARNING - [NOT FOUND] https://example.com/inicio ------ status 404
+2025-12-25 20:53:33,700 - INFO - Escaneo Finalizado.
